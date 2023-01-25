@@ -86,6 +86,9 @@ margin-left:80vw;
         margin-left:60px !important;
         line-height:40px !important;   
     }
+    .section2{
+        height:300px !important;
+    }
 
 }
 @media screen and (min-width:415px) and (max-width:850px){
