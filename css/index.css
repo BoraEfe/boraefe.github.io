@@ -89,7 +89,14 @@ margin-left:80vw;
     .section2{
         height:300px !important;
     }
-
+    .arrow{
+        line-height: 200px !important; 
+    }
+}
+@media screen and (min-width:415px){
+.lucas{
+    display:none
+}
 }
 @media screen and (min-width:415px) and (max-width:850px){
     header{
