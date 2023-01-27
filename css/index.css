@@ -89,8 +89,9 @@ margin-left:80vw;
     .section2{
         height:300px !important;
     }
-    .arrow{
-        line-height: 200px !important; 
+    .arrow{ 
+        margin:auto !important;
+        align-items:center !important;
     }
 }
 @media screen and (min-width:415px){
@@ -226,6 +227,7 @@ footer{
     height:67px;
     width:100%;
     background-color: #062a64;
+    display:flex;
 }
 .section2{
     height:30px;
@@ -258,12 +260,23 @@ cite{
 p2{
     color:white;
     font-weight: bold;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:1.5vw;
+    position: static;
 }
 p3{
     color:white;
     position: relative;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:1vw;
 }
 .lucas{
     width:200px;
     height:200px;
+}
+.contactfooter{
+    height:auto;
+    width:100px; 
 }
