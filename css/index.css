@@ -278,5 +278,6 @@ p3{
 }
 .contactfooter{
     height:auto;
-    width:100px; 
+    display:flex;
+    flex-direction: column; 
 }
