@@ -161,6 +161,13 @@ nav {
         margin-top: 70px !important;
     }
 }
+@media screen and (min-height:615px) {
+     .section2{
+        height:465px !important;
+     }
+
+    }
+
 
 .sectiontitle {
     Color: rgb(28, 202, 237);
