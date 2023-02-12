@@ -163,7 +163,7 @@ nav {
 }
 @media screen and (min-height:615px) {
      .section2{
-        height:290px !important;
+        height:200px !important;
      }
 
     }
@@ -204,7 +204,8 @@ nav {
 .foto {
     height: auto;
     width: 100%;
-    padding-top: 1vw;
+    padding-top: 1.0vw;
+    padding-left:10px;
 }
 
 .navbar {
@@ -250,6 +251,7 @@ main {
     border-radius: 45px;
     border-color: rgb(0, 166, 255);
     border-style: solid;
+    padding-left:20px;
     
 }
 
@@ -279,14 +281,14 @@ p {
 }
 
 footer {
-    height: 67px;
+    height:auto;
     width: 100%;
     background-color: #062a64;
     display: flex;
 }
 
 .section2{
-    height: 30px;
+    height: 20px;
     width: 100%;
     background-color: #0B1539;
     background-color: #1F1845;
@@ -336,6 +338,7 @@ cite {
     font-family: sans-serif;
     font-weight: bold;
     font-size: 1vw;
+    padding-bottom:20px;
 }
 
 .footer3 {
@@ -370,5 +373,13 @@ cite {
 
 .f2 {
     flex-direction: column;
-   
 }
+.footer4{
+      color: white;
+    position: relative;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1vw;
+    padding-bottom:20px;
+}
+    
